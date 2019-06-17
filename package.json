@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cobrettie/updated-portfolio/issues"
   },
-  "homepage": "https://github.com/Cobrettie/updated-portfolio#readme"
+  "homepage": "https://github.com/Cobrettie/updated-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
 }
