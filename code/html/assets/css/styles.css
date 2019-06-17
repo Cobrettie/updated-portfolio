@@ -289,7 +289,7 @@ a {
       top: -3px;
       width: 14px; }
   .btn.btn-fill {
-    background-color: #0bceaf;
+    background-color: #1c93e5;
     color: #fff; }
   .btn.left-icon .icon {
     margin-right: 15px; }
@@ -1044,7 +1044,7 @@ body {
       .mh-home .mh-header-info ul li address {
         display: inline-block; }
       .mh-home .mh-header-info ul li:hover .fa {
-        color: #0bceaf; }
+        color: #1c93e5; }
   .mh-home .mh-header-info .social-icon {
     margin-top: 0; }
     .mh-home .mh-header-info .social-icon li .fa {
@@ -1123,7 +1123,7 @@ body {
     padding: 4px 0px;
     display: inline-block; }
     .mh-about-tag ul li span {
-      border: 1px solid #0bceaf;
+      border: 1px solid #1c93e5;
       padding: 4px 10px;
       border-radius: 4px; }
       .mh-about-tag ul li span:hover {
