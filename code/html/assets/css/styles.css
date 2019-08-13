@@ -756,9 +756,9 @@ button {
     border-color: #fff;
     padding-right: 0;
     padding-left: 0;
-    color: #0bceaf; }
+    color: #fff; }
     .dark-vertion .mh-header .navbar-nav li a:hover {
-      color: #0bceaf;
+      color: #fff;
     }
   .dark-vertion .mh-header.nav-3 .navbar-nav li.active a {
     border-color: transparent; }
