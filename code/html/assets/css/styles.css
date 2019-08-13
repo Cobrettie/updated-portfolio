@@ -23,7 +23,7 @@
 [ Color codes ]
     
     [ Text and Background Color ]
-        Main color 1:       #1c93e5     
+        Main color 1:       #0bceaf     
         Main color 2:       #009688      
         Main color 3:       #9c27b0
         Main color 4:       #ff4081      
@@ -289,7 +289,7 @@ a {
       top: -3px;
       width: 14px; }
   .btn.btn-fill {
-    background-color: #1c93e5;
+    background-color: #0bceaf;
     color: #fff; }
   .btn.left-icon .icon {
     margin-right: 15px; }
@@ -756,9 +756,9 @@ button {
     border-color: #fff;
     padding-right: 0;
     padding-left: 0;
-    color: #1c93e5; }
+    color: #0bceaf; }
     .dark-vertion .mh-header .navbar-nav li a:hover {
-      color: #1c93e5;
+      color: #0bceaf;
     }
   .dark-vertion .mh-header.nav-3 .navbar-nav li.active a {
     border-color: transparent; }
@@ -1014,7 +1014,7 @@ body {
   .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px; }
     .mh-home .mh-header-info .mh-promo span {
-      background-color: #1c93e5;
+      background-color: #0bceaf;
       font-size: 14px;
       line-height: 24px;
       letter-spacing: 1px;
@@ -1044,7 +1044,7 @@ body {
       .mh-home .mh-header-info ul li address {
         display: inline-block; }
       .mh-home .mh-header-info ul li:hover .fa {
-        color: #1c93e5; }
+        color: #0bceaf; }
   .mh-home .mh-header-info .social-icon {
     margin-top: 0; }
     .mh-home .mh-header-info .social-icon li .fa {
@@ -1123,7 +1123,7 @@ body {
     padding: 4px 0px;
     display: inline-block; }
     .mh-about-tag ul li span {
-      border: 1px solid #1c93e5;
+      border: 1px solid #0bceaf;
       padding: 4px 10px;
       border-radius: 4px; }
       .mh-about-tag ul li span:hover {
